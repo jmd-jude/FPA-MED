@@ -1,0 +1,72 @@
+{
+  "case_005_evaluation_report.txt": {
+    "case_id": "case_005",
+    "file_name": "evaluation_report.txt",
+    "ingested_at": "data/cases/case_005"
+  },
+  "case_005_follow_up_memo.txt": {
+    "case_id": "case_005",
+    "file_name": "follow_up_memo.txt",
+    "ingested_at": "data/cases/case_005"
+  },
+  "case_002_evaluation_report.txt": {
+    "case_id": "case_002",
+    "file_name": "evaluation_report.txt",
+    "ingested_at": "data/cases/case_002"
+  },
+  "case_002_follow_up_letter.txt": {
+    "case_id": "case_002",
+    "file_name": "follow_up_letter.txt",
+    "ingested_at": "data/cases/case_002"
+  },
+  "case_003_evaluation_report.txt": {
+    "case_id": "case_003",
+    "file_name": "evaluation_report.txt",
+    "ingested_at": "data/cases/case_003"
+  },
+  "case_003_police_statement_analysis.txt": {
+    "case_id": "case_003",
+    "file_name": "police_statement_analysis.txt",
+    "ingested_at": "data/cases/case_003"
+  },
+  "case_004_risk_assessment_report.txt": {
+    "case_id": "case_004",
+    "file_name": "risk_assessment_report.txt",
+    "ingested_at": "data/cases/case_004"
+  },
+  "case_004_sentencing_recommendations.txt": {
+    "case_id": "case_004",
+    "file_name": "sentencing_recommendations.txt",
+    "ingested_at": "data/cases/case_004"
+  },
+  "case_001_court_testimony.txt": {
+    "case_id": "case_001",
+    "file_name": "court_testimony.txt",
+    "ingested_at": "data/cases/case_001"
+  },
+  "case_001_evaluation_report.txt": {
+    "case_id": "case_001",
+    "file_name": "evaluation_report.txt",
+    "ingested_at": "data/cases/case_001"
+  },
+  "case_006_evaluation_report.txt": {
+    "case_id": "case_006",
+    "file_name": "evaluation_report.txt",
+    "ingested_at": "data/cases/case_006"
+  },
+  "case_006_jail_behavioral_observations.txt": {
+    "case_id": "case_006",
+    "file_name": "jail_behavioral_observations.txt",
+    "ingested_at": "data/cases/case_006"
+  },
+  "case_007_civil_commitment_evaluation.txt": {
+    "case_id": "case_007",
+    "file_name": "civil_commitment_evaluation.txt",
+    "ingested_at": "data/cases/case_007"
+  },
+  "case_007_treatment_history_summary.txt": {
+    "case_id": "case_007",
+    "file_name": "treatment_history_summary.txt",
+    "ingested_at": "data/cases/case_007"
+  }
+}

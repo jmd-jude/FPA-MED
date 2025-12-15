@@ -338,7 +338,7 @@ enough information, say so. Always cite which documents you're referencing.
 ```
 
 **Response Generation**:
-- Model: Claude Sonnet 4
+- Model: Claude Sonnet 4-5
 - Max tokens: 1000
 - Temperature: 0.3 (for consistency)
 - Stream: Yes (for better UX)

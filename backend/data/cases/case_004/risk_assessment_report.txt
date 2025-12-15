@@ -1,0 +1,77 @@
+VIOLENCE RISK ASSESSMENT REPORT
+
+Case: State v. Thompson
+Date of Evaluation: April 20, 2024
+Evaluator: Dr. Michael Rodriguez, MD
+Court: District Court of Jefferson County
+
+REFERRAL QUESTION:
+Violence risk assessment requested by the court for sentencing purposes following defendant's conviction for aggravated assault (third degree).
+
+DEFENDANT INFORMATION:
+Name: Marcus Thompson
+Age: 34 years
+Current Location: County Correctional Facility
+
+BACKGROUND AND OFFENSE HISTORY:
+Mr. Thompson was convicted of aggravated assault following an altercation outside a bar that resulted in the victim sustaining significant facial injuries requiring hospitalization. This offense represents his fifth conviction for assault-related charges over an 8-year period, though prior convictions were primarily for simple assault or battery.
+
+Mr. Thompson reported a troubled childhood marked by parental substance abuse, domestic violence exposure, and inconsistent discipline. He acknowledged a pattern of conduct problems beginning around age 12, including frequent fighting at school, theft, vandalism, and eventual expulsion from high school at age 16. He has never completed formal education beyond 10th grade.
+
+STRUCTURED RISK ASSESSMENT:
+
+PSYCHOPATHY CHECKLIST-REVISED (PCL-R):
+Mr. Thompson scored 24 out of a possible 40 points on the PCL-R, placing him in the moderate range. Individuals scoring 30 or above are considered high in psychopathic traits. His scoring was elevated on Factor 1 (interpersonal/affective traits) items including glibness, grandiose sense of self-worth, pathological lying, and lack of remorse. He showed moderate elevation on Factor 2 (lifestyle/antisocial behavior) items including need for stimulation, parasitic lifestyle, impulsivity, and criminal versatility.
+
+HISTORICAL-CLINICAL-RISK MANAGEMENT-20 (HCR-20):
+The HCR-20 assesses risk across three domains:
+
+Historical factors (H): Mr. Thompson showed significant risk indicators including previous violence (H1), young age at first violent incident - age 14 (H2), relationship instability (H3), and early maladjustment (H6). However, he has no major mental illness (H7) and his substance use, while problematic, is not chronic (H4).
+
+Clinical factors (C): Currently, Mr. Thompson shows limited insight into his violent behavior, tends to minimize responsibility, and demonstrates poor anger management skills. However, he is not actively symptomatic for major mental illness.
+
+Risk management factors (R): Significant concerns include limited treatment compliance history, lack of personal support in the past (though this has improved recently), and tendency toward unstructured lifestyle. Protective factors include his recent stable employment and improving family relationships.
+
+DIAGNOSTIC IMPRESSIONS:
+1. Antisocial Personality Disorder, moderate severity
+2. Alcohol Use Disorder, mild to moderate (in remission in controlled setting)
+3. Cannabis Use Disorder, mild
+
+RISK FORMULATION:
+Mr. Thompson presents a moderate-to-high risk for future violence based on the following constellation of factors:
+
+RISK FACTORS:
+- Established pattern of violence beginning in adolescence
+- Antisocial personality traits including impulsivity and poor anger control
+- History of substance use associated with violent incidents
+- Limited formal education and job skills (though current employment is protective)
+- Peer associations that support antisocial behavior
+- Tendency to externalize blame and minimize responsibility
+
+PROTECTIVE FACTORS:
+- Five-year employment history as welder at manufacturing plant (longest period of employment stability in his adult life)
+- Supportive relationship with girlfriend of 2 years who has no criminal history
+- Recently reconnected with mother who is willing to provide housing and support
+- No evidence of psychotic disorders or major mood disorders
+- Age 34 - violence risk tends to decrease with age for personality-disordered individuals
+
+RISK SCENARIOS:
+Mr. Thompson's violence risk is elevated in the following circumstances:
+- Intoxication with alcohol or other substances
+- Unstructured environments such as bars or parties
+- Perceived disrespect or threats to self-esteem
+- Relationship conflicts or termination of supportive relationship
+- Loss of employment or stable housing
+- Association with antisocial peer group
+
+Risk is reduced in structured environments with clear expectations, regular employment, substance abstinence, and prosocial support systems.
+
+OPINIONS:
+It is my professional opinion that Mr. Thompson presents a moderate-to-high risk for future violence. However, this risk is not static and can be significantly reduced through structured intervention. The presence of protective factors, particularly recent employment stability and family support, provides a foundation for risk reduction strategies.
+
+Mr. Thompson does not meet criteria for civil commitment as a sexually violent predator or other high-risk designation. His violence has been reactive and impulsive rather than planned or predatory. With appropriate intervention and support, recidivism risk can be substantially mitigated.
+
+Respectfully submitted,
+
+Dr. Michael Rodriguez, MD
+Board Certified in Psychiatry and Forensic Psychiatry

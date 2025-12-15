@@ -1,0 +1,32 @@
+{
+  "case_id": "case_003",
+  "title": "State v. Martinez - Insanity Defense Evaluation",
+  "defendant": "Carlos Martinez (fictional)",
+  "date": "2024-03-15",
+  "court": "Superior Court of Franklin County",
+  "evaluator": "Dr. Rebecca Chen, MD (fictional)",
+  "question": "Mental state at time of offense (insanity defense evaluation)",
+  "summary": "Defendant with Bipolar I Disorder was in acute manic episode with psychotic features during alleged offense. Grandiose delusions and command hallauditory hallucinations present. Had stopped medication 2 months prior. Opinion supports insanity defense under M'Naghten standard - lacked substantial capacity to appreciate wrongfulness of conduct due to psychotic symptoms.",
+  "documents": [
+    {
+      "filename": "evaluation_report.txt",
+      "type": "evaluation_report",
+      "date": "2024-03-15",
+      "description": "Comprehensive forensic psychiatric evaluation for insanity defense"
+    },
+    {
+      "filename": "police_statement_analysis.txt",
+      "type": "correspondence",
+      "date": "2024-03-20",
+      "description": "Analysis of defendant's statements to police showing disorganized thinking and delusional content"
+    }
+  ],
+  "key_findings": [
+    "Bipolar I Disorder, Most Recent Episode Manic with Psychotic Features (acute phase during offense)",
+    "Grandiose delusions (believed chosen by God to deliver message)",
+    "Command auditory hallucinations directing behavior during offense",
+    "Two-month medication non-compliance prior to offense - previously stable on lithium and olanzapine",
+    "Opinion supports insanity defense - lacked capacity to appreciate wrongfulness due to psychotic symptoms",
+    "Prognosis good with medication reinitiation - currently responding to treatment"
+  ]
+}

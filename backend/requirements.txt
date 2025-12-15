@@ -1,0 +1,20 @@
+# FastAPI and server
+fastapi
+uvicorn[standard]
+pydantic
+
+# LlamaIndex core and integrations
+llama-index
+llama-index-llms-anthropic
+llama-index-embeddings-openai
+llama-index-vector-stores-chroma
+
+# Vector store
+chromadb
+
+# API clients
+anthropic
+openai
+
+# Utilities
+python-dotenv

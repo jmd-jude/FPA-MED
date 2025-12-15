@@ -1,0 +1,34 @@
+{
+  "case_id": "case_005",
+  "title": "State v. Williams - Competency Evaluation (Intellectual Disability)",
+  "defendant": "Tyrell Williams (fictional)",
+  "date": "2024-05-10",
+  "court": "Superior Court of Madison County",
+  "evaluator": "Dr. Sandra Mitchell, PsyD (fictional)",
+  "question": "Competency to stand trial",
+  "summary": "Defendant with Mild Intellectual Disability and PTSD assessed for competency to stand trial. Full-scale IQ of 65 on WAIS-IV, with significant deficits in abstract reasoning and verbal comprehension. PTSD symptoms from childhood trauma impair concentration and memory. Cannot adequately understand court proceedings or assist counsel with defense. Poor prognosis for competency restoration due to cognitive limitations being permanent. Raises ethical questions regarding indefinite incompetency.",
+  "documents": [
+    {
+      "filename": "evaluation_report.txt",
+      "type": "evaluation_report",
+      "date": "2024-05-10",
+      "description": "Comprehensive competency evaluation with cognitive testing and trauma assessment"
+    },
+    {
+      "filename": "follow_up_memo.txt",
+      "type": "correspondence",
+      "date": "2024-07-15",
+      "description": "60-day follow-up assessment showing lack of progress in competency restoration"
+    }
+  ],
+  "key_findings": [
+    "Mild Intellectual Disability - WAIS-IV Full Scale IQ: 65 (1st percentile)",
+    "Post-Traumatic Stress Disorder related to childhood physical and sexual abuse",
+    "Special education placement throughout school years; never progressed beyond 6th grade level",
+    "Cannot understand abstract legal concepts (burden of proof, plea bargaining, witness examination)",
+    "PTSD symptoms (intrusive thoughts, hyperarousal, avoidance) further impair concentration and memory",
+    "NOT competent to stand trial - lacks rational and factual understanding of proceedings",
+    "Poor prognosis for restoration - cognitive deficits are permanent, not amenable to brief educational intervention",
+    "Raises Jackson v. Indiana concerns regarding indefinite commitment for unrestorable incompetency"
+  ]
+}

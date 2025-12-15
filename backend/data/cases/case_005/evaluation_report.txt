@@ -1,0 +1,93 @@
+COMPETENCY TO STAND TRIAL EVALUATION
+
+Case: State v. Williams
+Date of Evaluation: May 10, 2024
+Evaluator: Dr. Sandra Mitchell, PsyD
+Court: Superior Court of Madison County
+
+REFERRAL QUESTION:
+Evaluation requested to assess defendant's competency to stand trial under the Dusky standard.
+
+DEFENDANT INFORMATION:
+Name: Tyrell Williams
+Age: 28 years
+Current Location: County Jail
+
+RELEVANT HISTORY:
+Mr. Williams has a documented history of intellectual disability dating to childhood. School records indicate he was placed in special education classes beginning in first grade and never progressed academically beyond approximately 6th grade level. He was diagnosed with Mild Intellectual Disability at age 9 based on comprehensive psychoeducational testing. He dropped out of school at age 17 without completing high school.
+
+Additionally, Mr. Williams has a history of significant childhood trauma. According to records from Child Protective Services and his own report, he experienced physical abuse from his father and sexual abuse from a maternal uncle between ages 6-12. He has received intermittent mental health treatment for trauma-related symptoms and was diagnosed with PTSD at age 20.
+
+Mr. Williams has had limited independent functioning in adulthood. He has lived primarily with his grandmother, who manages his finances and provides daily structure. Employment history is limited to supported work programs and occasional day labor. He has no history of independent living.
+
+COGNITIVE ASSESSMENT:
+
+WECHSLER ADULT INTELLIGENCE SCALE-IV (WAIS-IV):
+- Full Scale IQ: 65 (1st percentile, Mild Intellectual Disability range)
+- Verbal Comprehension Index: 68
+- Perceptual Reasoning Index: 70
+- Working Memory Index: 62
+- Processing Speed Index: 67
+
+These scores place Mr. Williams in the range of Mild Intellectual Disability (IQ 55-70). His cognitive functioning is approximately 2-3 standard deviations below the mean across all domains. Performance was consistent with prior testing from age 9 and age 15, indicating stable intellectual functioning.
+
+COMPETENCY ASSESSMENT:
+
+Factual Understanding of Proceedings:
+Mr. Williams demonstrated very limited factual understanding of court proceedings. When asked to explain the role of the judge, he stated, "The judge is the boss, he tells people what to do." He could not explain the roles of the prosecutor or defense attorney. He did not understand the concept of a jury, stating "I don't know what that is" when asked.
+
+He could not explain what a plea is or distinguish between guilty and not guilty pleas. When asked about the difference, he said, "They both mean you go to jail, right?" He showed no understanding of the burden of proof or the presumption of innocence.
+
+Rational Understanding:
+Mr. Williams demonstrated no capacity for rational understanding of how legal proceedings apply to his specific case. He could not explain the charges against him in any meaningful detail, stating only, "They said I took something that wasn't mine." He could not identify potential defenses or explain how evidence might help or hurt his case.
+
+When asked about the potential consequences of conviction, he said, "I might get in trouble," but showed no understanding of the range of potential sentences or the severity of the charges. He could not explain the difference between a misdemeanor and felony.
+
+Ability to Assist Counsel:
+Mr. Williams' intellectual limitations significantly impair his ability to assist in his own defense. He cannot recall events in sequential order or with necessary detail. His narrative of the alleged offense is fragmented and contains contradictions. He demonstrated difficulty answering hypothetical questions about legal strategy.
+
+He shows no understanding of the adversarial nature of proceedings or the role of cross-examination. When asked what it means when the prosecutor asks him questions in court, he replied, "I have to answer and tell the truth," not understanding that he has rights against self-incrimination.
+
+PTSD SYMPTOMS:
+
+Current PTSD symptoms further impair Mr. Williams' competency. He reports frequent intrusive thoughts about childhood abuse, particularly at night in the jail setting. He endorses hypervigilance, startle response, and difficulty concentrating. During the evaluation, he appeared distracted and several times did not respond to questions, requiring redirection.
+
+His defense attorney reports that Mr. Williams has difficulty maintaining focus during legal discussions, becomes overwhelmed easily, and sometimes dissociates when discussing his case. These trauma symptoms compound his baseline cognitive limitations.
+
+DIAGNOSTIC IMPRESSIONS:
+1. Mild Intellectual Disability (lifelong)
+2. Post-Traumatic Stress Disorder, chronic
+3. Rule out depression (exhibits low mood, though this may be reactive to incarceration)
+
+OPINIONS REGARDING COMPETENCY:
+
+It is my professional opinion that Mr. Williams is NOT competent to stand trial. He does not meet the Dusky standard, as he lacks both rational and factual understanding of the proceedings and cannot assist his attorney in his defense.
+
+Specifically, he cannot:
+1. Understand the nature and consequences of the proceedings
+2. Comprehend his role as defendant
+3. Understand the roles of court personnel
+4. Grasp the adversarial nature of proceedings
+5. Appreciate the consequences of various pleas or verdicts
+6. Assist his attorney in planning legal strategy
+
+PROGNOSIS FOR RESTORATION:
+
+The prognosis for competency restoration is very poor. Mr. Williams' intellectual limitations are permanent and not amenable to educational remediation in a brief timeframe. While competency education programs can teach factual information about court procedures, his cognitive deficits prevent him from understanding abstract legal concepts essential to competent participation.
+
+The PTSD symptoms complicate restoration efforts but are not the primary barrier. Even if trauma treatment reduced his PTSD symptoms, his intellectual disability would remain an insurmountable barrier to competency.
+
+This raises significant legal and ethical concerns under Jackson v. Indiana, which holds that defendants cannot be held indefinitely on competency grounds. Given that Mr. Williams is unlikely to ever become competent due to intellectual disability, the court may need to consider alternatives to traditional prosecution.
+
+RECOMMENDATIONS:
+1. Mr. Williams should be found not competent to stand trial
+2. Competency restoration efforts are not recommended given poor prognosis
+3. Court should consider dismissal of charges with civil commitment if appropriate, or diversion to mental health/intellectual disability services
+4. If restoration is attempted despite poor prognosis, it should be time-limited (e.g., 90 days maximum) with clear benchmarks for progress
+5. Trauma-focused therapy may benefit his overall mental health but will not render him competent
+
+Respectfully submitted,
+
+Dr. Sandra Mitchell, PsyD
+Licensed Clinical Psychologist
+Board Certified in Forensic Psychology

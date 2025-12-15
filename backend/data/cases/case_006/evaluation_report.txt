@@ -1,0 +1,127 @@
+COMPETENCY TO STAND TRIAL EVALUATION
+
+Case: State v. Parker
+Date of Evaluation: June 5, 2024
+Evaluator: Dr. Alan Foster, MD
+Court: Circuit Court of Henderson County
+
+REFERRAL QUESTION:
+Evaluation requested to assess defendant's competency to stand trial. Defense counsel raised concerns about possible mental illness based on defendant's claims of hearing voices and confusion.
+
+DEFENDANT INFORMATION:
+Name: James Parker
+Age: 41 years
+Current Location: County Detention Center
+Charges: Armed robbery, aggravated assault
+
+CLINICAL PRESENTATION:
+Mr. Parker's presentation during the evaluation was notable for dramatic and inconsistent symptom reporting. He initially reported hearing "dozens of voices all the time" that give him contradictory commands. When asked to describe the voices in detail, his descriptions changed repeatedly and included features highly atypical of genuine auditory hallucinations.
+
+For example, he claimed the voices speak "in different languages I don't understand," yet also stated they give him specific commands in English. He reported the voices are "inside and outside my head at the same time" and that they come from "the walls and the air." When asked when the voices started, he gave three different timeframes during the same interview (2 months ago, 6 months ago, "my whole life").
+
+Mr. Parker also reported dramatic cognitive impairment, claiming he "can't remember anything" and "doesn't know where he is." However, he had no difficulty recalling details about topics unrelated to his legal case, such as describing the plot of television shows he watches and recounting conflicts with other inmates with perfect accuracy and chronology.
+
+VALIDITY ASSESSMENT:
+
+STRUCTURED INTERVIEW OF REPORTED SYMPTOMS-2 (SIRS-2):
+The SIRS-2 is a validated instrument designed to detect feigned mental illness. Mr. Parker's scores were as follows:
+
+Primary Scales (all scores in parentheses indicate raw scores):
+- Rare Symptoms (RS): 24 - DEFINITE FEIGNING range
+- Symptom Combinations (SC): 18 - PROBABLE FEIGNING range
+- Improbable or Absurd Symptoms (IA): 16 - DEFINITE FEIGNING range
+- Blatant Symptoms (BL): 22 - DEFINITE FEIGNING range
+- Subtle Symptoms (SU): 8 - Indeterminate
+- Selectivity of Symptoms (SEL): 19 - PROBABLE FEIGNING range
+- Severity of Symptoms (SEV): 26 - DEFINITE FEIGNING range
+- Reported vs. Observed Symptoms (RO): 21 - DEFINITE FEIGNING range
+
+Supplementary Scales:
+- Direct Appraisal of Honesty (DA): Acknowledged being untruthful
+- Defensive Symptoms (DS): Within normal limits
+- Symptom Onset and Resolution (SO): Implausible pattern
+
+INTERPRETATION: Mr. Parker's SIRS-2 profile indicates DEFINITE FEIGNING of mental illness. He endorsed symptoms at rates far exceeding even severely mentally ill individuals, including symptoms that are rare, absurd, or impossible. This pattern is incompatible with genuine mental disorder and diagnostic of malingering.
+
+COGNITIVE TESTING:
+
+Test of Memory Malingering (TOMM):
+Mr. Parker's performance on this forced-choice recognition memory test was remarkably poor:
+- Trial 1: 32/50 (below chance performance)
+- Trial 2: 28/50 (below chance performance)
+- Retention: 25/50 (below chance performance)
+
+These scores are well below the cutoff for malingering (≤45 on Trial 2). More significantly, they are below what would be expected by RANDOM GUESSING (50% correct). To score this poorly requires deliberate selection of wrong answers. Individuals with severe dementia, traumatic brain injury, and even moderate intellectual disability typically score above this level.
+
+SPECIFIC SYMPTOM ANALYSIS:
+
+Endorsed Bizarre Symptoms Not Seen in Genuine Disorders:
+1. Claims voices tell him "nonsense words like blibber and frazzle" - atypical, childish presentation
+2. Reports seeing "purple ghosts" that only he can see - more consistent with malingered psychosis stereotype than genuine hallucinations
+3. States he "forgets his own name sometimes" - implausible, even in severe dementia
+4. Claims he "can't read anymore" despite being observed reading magazines in jail
+5. Reports voices command him to "eat the soap" and other absurd, non-threatening commands
+
+Symptom Inconsistencies:
+- Reports constant, overwhelming auditory hallucinations but shows no behavioral signs (talking to self, appearing distracted, covering ears)
+- Claims severe memory impairment but recalls evaluation appointment time, evaluator's name, and other contextual details perfectly
+- States he doesn't understand what court is, but later accurately describes courtroom personnel and procedures
+- Reports he "doesn't know right from wrong," yet demonstrates clear understanding in other contexts
+
+HISTORICAL INFORMATION:
+
+Criminal History Review:
+Mr. Parker has two prior arrests where he also claimed mental illness to avoid prosecution:
+1. 2018 arrest for theft: Claimed to hear voices, evaluation found malingering, was found competent
+2. 2020 arrest for fraud: Claimed memory loss, neuropsychological testing revealed malingering, was found competent
+
+Both times, symptoms reportedly resolved immediately upon case resolution.
+
+No documented mental health treatment history outside of these forensic contexts. No psychiatric hospitalizations, no outpatient mental health treatment, no psychiatric medications, no emergency room visits for psychiatric concerns.
+
+COLLATERAL INFORMATION:
+
+Jail staff report that Mr. Parker appears completely normal and functional in the housing unit. A corrections officer noted: "He has no problems following instructions, managing his belongings, interacting appropriately with others. If I didn't know he was claiming to be hearing voices, I would never suspect any mental illness. He seems to 'act crazy' mainly when he knows he's being evaluated."
+
+Video review of Mr. Parker in the housing unit (when he was unaware of surveillance) shows organized, goal-directed behavior, appropriate conversations with other inmates, reading newspapers, and no signs of response to internal stimuli.
+
+DIAGNOSTIC IMPRESSIONS:
+1. Malingering (feigned mental disorder)
+2. No Axis I psychiatric disorder identified
+3. Antisocial personality traits (by history, not formally assessed)
+
+OPINIONS REGARDING COMPETENCY:
+
+It is my professional opinion that James Parker is COMPETENT to stand trial. Despite his claims to the contrary, he demonstrates adequate understanding of court proceedings and can assist his attorney with his defense when he chooses to do so.
+
+His inconsistent symptom presentation, endorsement of bizarre and impossible symptoms, performance worse than chance on validity testing, and history of malingering in previous legal situations all support the conclusion that he is deliberately feigning mental illness to avoid prosecution.
+
+Mr. Parker understands:
+- The nature and seriousness of the charges
+- The roles of court personnel
+- The adversarial nature of proceedings
+- His right to testify or remain silent
+- The difference between pleas
+- The range of possible sentences
+
+He has demonstrated the ability to:
+- Communicate with his attorney about facts of the case
+- Understand legal advice when provided
+- Make decisions about his legal strategy
+- Recall and describe relevant events
+
+His claimed symptoms of hallucinations and cognitive impairment are not genuine and should not be considered a barrier to competency.
+
+RECOMMENDATIONS:
+
+1. Mr. Parker should be found competent to stand trial
+2. No psychiatric treatment is indicated as no genuine mental illness is present
+3. Malingering should be considered in any future claims of mental illness by this defendant
+4. The court should be aware that Mr. Parker has the capacity to understand proceedings and participate in his defense despite his protestations to the contrary
+
+It is important to note that malingering is not itself a mental illness, but rather a deliberate behavior motivated by external incentives (in this case, avoiding criminal prosecution). Individuals who malinger are making conscious, volitional choices to feign illness and are fully responsible for their behavior.
+
+Respectfully submitted,
+
+Dr. Alan Foster, MD
+Board Certified in Psychiatry and Forensic Psychiatry

@@ -1,0 +1,34 @@
+{
+  "case_id": "case_006",
+  "title": "State v. Parker - Competency Evaluation (Malingering Suspected)",
+  "defendant": "James Parker (fictional)",
+  "date": "2024-06-05",
+  "court": "Circuit Court of Henderson County",
+  "evaluator": "Dr. Alan Foster, MD (fictional)",
+  "question": "Competency to stand trial",
+  "summary": "Defendant claiming to hear voices and experiencing confusion assessed for competency. Extensive inconsistencies in symptom presentation, endorsement of bizarre and atypical symptoms that contradict known psychiatric syndromes, performance on cognitive testing worse than expected even for severe mental illness. SIRS-2 (malingering assessment instrument) indicates definite feigning. Collateral information from jail staff reveals normal behavior when unaware of observation. No genuine mental illness identified. Opinion: Defendant is COMPETENT and is malingering mental illness.",
+  "documents": [
+    {
+      "filename": "evaluation_report.txt",
+      "type": "evaluation_report",
+      "date": "2024-06-05",
+      "description": "Comprehensive competency evaluation with detailed malingering assessment"
+    },
+    {
+      "filename": "jail_behavioral_observations.txt",
+      "type": "correspondence",
+      "date": "2024-06-08",
+      "description": "Collateral data from jail staff documenting normal behavior when unaware of evaluation context"
+    }
+  ],
+  "key_findings": [
+    "No genuine major mental illness identified despite defendant's claims",
+    "Malingering (feigned mental disorder) - deliberate production of false or exaggerated symptoms",
+    "SIRS-2 scores in definite feigning range on multiple validity scales",
+    "Endorsed bizarre, atypical symptoms rarely seen in genuine psychiatric disorders",
+    "Performance on cognitive tests worse than individuals with severe dementia (implausible given defendant's functioning)",
+    "Jail staff observations reveal normal, organized behavior when unaware of being observed",
+    "History reveals similar malingering attempts in two prior arrest situations",
+    "Competent to stand trial - understands proceedings and can assist counsel when motivated to do so"
+  ]
+}

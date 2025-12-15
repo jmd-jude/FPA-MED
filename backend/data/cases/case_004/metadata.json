@@ -1,0 +1,33 @@
+{
+  "case_id": "case_004",
+  "title": "State v. Thompson - Violence Risk Assessment for Sentencing",
+  "defendant": "Marcus Thompson (fictional)",
+  "date": "2024-04-20",
+  "court": "District Court of Jefferson County",
+  "evaluator": "Dr. Michael Rodriguez, MD (fictional)",
+  "question": "Violence risk assessment for sentencing determination",
+  "summary": "Defendant with Antisocial Personality Disorder assessed for violence risk following conviction for aggravated assault. Pattern of conduct disorder from adolescence, multiple prior assaults, but also protective factors including stable employment history and family support. Structured risk assessment (PCL-R, HCR-20) indicates moderate-to-high risk for future violence. Risk can be mitigated with structured sentencing, treatment programming, and post-release supervision.",
+  "documents": [
+    {
+      "filename": "risk_assessment_report.txt",
+      "type": "risk_assessment",
+      "date": "2024-04-20",
+      "description": "Comprehensive violence risk assessment using validated instruments"
+    },
+    {
+      "filename": "sentencing_recommendations.txt",
+      "type": "correspondence",
+      "date": "2024-04-25",
+      "description": "Specific recommendations for sentencing court regarding risk management"
+    }
+  ],
+  "key_findings": [
+    "Diagnosis: Antisocial Personality Disorder, moderate severity",
+    "Pattern of conduct disorder beginning age 12 - fighting, theft, school expulsion",
+    "Four prior convictions for assault over 8-year period",
+    "PCL-R score of 24 (moderate range for psychopathy; score ≥30 indicates high psychopathy)",
+    "Protective factors: 5-year stable employment as welder, supportive girlfriend and mother",
+    "Moderate-to-high risk for future violence, particularly in unstructured environments or with substance use",
+    "Risk can be reduced with treatment (anger management, substance abuse), supervision, and prosocial supports"
+  ]
+}

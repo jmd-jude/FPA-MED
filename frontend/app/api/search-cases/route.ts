@@ -1,5 +1,5 @@
 /**
- * Query API route - proxies to backend
+ * Search Cases API route - proxies to backend
  */
 
 export async function POST(request: Request) {
@@ -8,7 +8,7 @@ export async function POST(request: Request) {
   try {
     const body = await request.json();
 
-    const response = await fetch(`${backendUrl}/query`, {
+    const response = await fetch(`${backendUrl}/search-cases`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

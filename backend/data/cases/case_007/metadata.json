@@ -1,0 +1,35 @@
+{
+  "case_id": "case_007",
+  "title": "In re Johnson - Civil Commitment Evaluation",
+  "defendant": "Robert Johnson (fictional)",
+  "date": "2024-07-01",
+  "court": "Probate Court of Montgomery County",
+  "evaluator": "Dr. Elizabeth Warner, MD (fictional)",
+  "question": "Involuntary civil commitment criteria (danger to self/others, gravely disabled)",
+  "summary": "Evaluation for involuntary civil commitment of individual with treatment-resistant paranoid schizophrenia. Fifteen-year documented history with multiple hospitalizations. Failed trials of four different antipsychotic medications. Persistent command auditory hallucinations directing harm to others, combined with paranoid delusions about neighbors poisoning him. Unable to meet basic self-care needs - severe malnutrition, poor hygiene, eviction imminent. Family exhausted and unable to provide adequate supervision. Recent aggressive incident toward stranger. Meets criteria for involuntary commitment as danger to others and gravely disabled.",
+  "documents": [
+    {
+      "filename": "civil_commitment_evaluation.txt",
+      "type": "civil_commitment",
+      "date": "2024-07-01",
+      "description": "Comprehensive evaluation of dangerousness and grave disability for civil commitment"
+    },
+    {
+      "filename": "treatment_history_summary.txt",
+      "type": "correspondence",
+      "date": "2024-07-05",
+      "description": "Detailed chronology of treatment trials documenting treatment resistance"
+    }
+  ],
+  "key_findings": [
+    "Schizophrenia, Paranoid Type, chronic, treatment-resistant",
+    "Failed adequate trials of risperidone, olanzapine, quetiapine, and aripiprazole over 15-year period",
+    "Persistent command auditory hallucinations directing violence toward others - \"eliminate the threats\"",
+    "Fixed paranoid delusions - believes neighbors are poisoning his water and air to harm him",
+    "Gravely disabled - unable to provide food, clothing, shelter for self; severe malnutrition (BMI 16.2)",
+    "Recent aggressive incident - shoved stranger he believed was \"one of them,\" victim fell and sustained injury",
+    "Meets criteria for involuntary civil commitment under state law as danger to others AND gravely disabled",
+    "Clozapine trial recommended as last-resort medication for treatment-resistant schizophrenia",
+    "Family support exhausted after 15 years; mother reports feeling unsafe in home with him"
+  ]
+}
