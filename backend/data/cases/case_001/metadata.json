@@ -1,0 +1,28 @@
+{
+  "case_id": "case_001",
+  "title": "State v. Anderson - Competency Evaluation",
+  "defendant": "Michael Anderson (fictional)",
+  "date": "2024-03-15",
+  "court": "Superior Court of Example County",
+  "evaluator": "Dr. Sarah Mitchell, MD (fictional)",
+  "question": "Competency to stand trial and mental state at time of offense",
+  "documents": [
+    {
+      "filename": "evaluation_report.txt",
+      "type": "evaluation_report",
+      "date": "2024-03-15",
+      "description": "Forensic psychiatric evaluation report"
+    },
+    {
+      "filename": "court_testimony.txt",
+      "type": "testimony",
+      "date": "2024-04-22",
+      "description": "Court testimony transcript of evaluator"
+    }
+  ],
+  "key_findings": [
+    "Defendant competent to stand trial",
+    "No evidence of mental illness affecting mental state at time of offense",
+    "Major depressive disorder in remission with medication"
+  ]
+}

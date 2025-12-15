@@ -1,0 +1,29 @@
+{
+  "case_id": "case_002",
+  "title": "State v. Rodriguez - Competency Restoration",
+  "defendant": "Carlos Rodriguez (fictional)",
+  "date": "2024-02-08",
+  "court": "District Court of Example County",
+  "evaluator": "Dr. James Patterson, MD (fictional)",
+  "question": "Competency to stand trial",
+  "documents": [
+    {
+      "filename": "evaluation_report.txt",
+      "type": "evaluation_report",
+      "date": "2024-02-08",
+      "description": "Initial forensic psychiatric evaluation"
+    },
+    {
+      "filename": "follow_up_letter.txt",
+      "type": "correspondence",
+      "date": "2024-03-01",
+      "description": "Follow-up letter to defense attorney regarding progress"
+    }
+  ],
+  "key_findings": [
+    "Defendant NOT competent to stand trial at initial evaluation",
+    "Diagnosis: Schizophrenia, paranoid type, acute phase",
+    "Good prognosis for restoration with medication compliance",
+    "Follow-up shows significant improvement after 3 weeks of treatment"
+  ]
+}
