@@ -1,0 +1,161 @@
+TRANSCRIPT OF TESTIMONY
+KING COUNTY SUPERIOR COURT - JUVENILE DIVISION
+
+IN RE: Marcus Allen Thompson
+CASE NUMBER: JUV-2024-00847
+HEARING TYPE: Decline/Transfer Hearing
+DATE: September 22, 2024
+JUDGE: Honorable Robert Martinez
+
+WITNESS: Patricia Chen, MD
+
+DIRECT EXAMINATION BY MS. JENNIFER PARK (Public Defender):
+
+Q: Dr. Chen, could you please state your name and spell your last name for the record?
+A: Patricia Chen. C-H-E-N.
+
+Q: What is your profession?
+A: I'm a psychiatrist. I'm board certified in both general psychiatry and forensic psychiatry.
+
+Q: Can you briefly describe your qualifications?
+A: I completed medical school at the University of Washington, followed by a residency in psychiatry at Stanford University. I then completed a two-year fellowship in forensic psychiatry at the University of California, San Francisco. I've been practicing forensic psychiatry for twelve years. I conduct evaluations for various courts including competency evaluations, criminal responsibility assessments, and juvenile transfer evaluations. I'm on the clinical faculty at the University of Washington School of Medicine where I supervise residents and fellows.
+
+Q: How many juvenile transfer evaluations have you conducted?
+A: Approximately forty to fifty over the course of my career.
+
+Q: Were you asked to evaluate Marcus Thompson in this case?
+A: Yes, I was appointed by the court to conduct a forensic psychiatric evaluation to assist in determining whether Marcus should be transferred to adult court.
+
+Q: What did your evaluation involve?
+A: I conducted three clinical interviews with Marcus totaling approximately six and a half hours over the course of several days in August. I also interviewed his mother and his aunt. I reviewed extensive records including juvenile court files, police reports, educational records from Seattle Public Schools, mental health treatment records, and Child Protective Services files. I administered psychological testing including intelligence testing and personality assessment. I also conducted a structured violence risk assessment using a tool called the SAVRY.
+
+Q: What is the SAVRY?
+A: The Structured Assessment of Violence Risk in Youth. It's an evidence-based tool specifically designed for assessing violence risk in adolescents. It examines twenty-four risk factors and six protective factors to guide clinical judgment about future violence risk.
+
+Q: What diagnoses did you arrive at for Marcus?
+A: Marcus meets criteria for Conduct Disorder, Childhood-Onset Type, Severe, with what we call "limited prosocial emotions." He also has Cannabis Use Disorder at the moderate level, though he's currently abstinent due to being in detention. I also noted that we should rule out Post-Traumatic Stress Disorder given his exposure to domestic violence and witnessing his father's suicide.
+
+Q: Can you explain what Conduct Disorder means?
+A: Conduct Disorder is a psychiatric diagnosis given to children and adolescents who show a persistent pattern of behavior that violates the rights of others or violates major social norms. The behaviors fall into four categories: aggression toward people or animals, destruction of property, deceitfulness or theft, and serious rule violations. To meet the diagnosis, you need at least three of these behaviors present in the past twelve months, with at least one present in the past six months.
+
+Q: And what does "childhood-onset type" mean?
+A: That specifier indicates that the conduct problems began before age ten. In Marcus's case, there's documentation of aggressive behavior toward peers beginning in elementary school, around age seven or eight.
+
+Q: What about the "limited prosocial emotions" specifier?
+A: This is an important addition to the diagnosis. It indicates the presence of what are sometimes called callous-unemotional traits. Specifically, it requires that the person show at least two of four characteristics persistently over at least twelve months in multiple settings. Those characteristics are: lack of remorse or guilt, callous lack of empathy, unconcern about performance, and shallow or deficient affect.
+
+Q: Did Marcus meet those criteria?
+A: Yes. He demonstrated limited remorse about the impact of his behaviors on others, shallow emotional expression in some contexts, and limited concern about his academic or behavioral performance. However, I want to emphasize that this isn't absolute. Marcus does show some capacity for emotional connection, particularly with his mother and his younger cousin. The emotions are limited, not completely absent.
+
+Q: Is Conduct Disorder treatable?
+A: That's a complex question. Conduct Disorder is one of the more challenging psychiatric conditions to treat, particularly when it's severe and involves limited prosocial emotions. However, research shows that adolescents with Conduct Disorder can show significant improvement with intensive, evidence-based interventions. The key factors are early intervention, sufficient intensity of treatment, and addressing multiple domains - the individual, the family, the peer group, and the school or community context.
+
+Q: What kind of interventions are effective?
+A: Several evidence-based treatments have shown effectiveness with conduct-disordered youth. These include Multisystemic Therapy, which works with the family and community systems; Functional Family Therapy; intensive residential treatment programs that incorporate cognitive-behavioral therapy; and programs like Aggression Replacement Training that specifically target violence. The critical factor is intensity - these aren't once-a-week outpatient therapy approaches. They require intensive, comprehensive intervention.
+
+Q: Has Marcus received these types of intensive interventions?
+A: No. His prior treatment has been sporadic and insufficient. He attended four sessions of grief counseling after his father's death. He was prescribed ADHD medication but discontinued it after three weeks. He participated in outpatient therapy for about six months but attendance was inconsistent and the treatment wasn't intensive enough for his level of need. He was placed on juvenile supervision with conditions including counseling and substance abuse treatment, but again, these weren't intensive programs and his compliance was poor. So we don't actually know how Marcus would respond to truly intensive, evidence-based intervention because he's never received it.
+
+Q: You also mentioned Cannabis Use Disorder. How does that relate to his conduct problems?
+A: Substance abuse and conduct problems often co-occur and can exacerbate each other. Marcus began using marijuana at age thirteen, shortly after his father's suicide. He was using it daily by age fifteen. He described using it to manage negative emotions - to help him sleep, to calm down when angry. So it served a self-medicating function. The problem is that chronic marijuana use during adolescence can impair brain development, worsen executive functioning, and is associated with increased violence risk. Addressing his substance use is critical to addressing his conduct problems.
+
+Q: You mentioned you conducted a risk assessment. What were your findings?
+A: Using the SAVRY, I assessed Marcus as presenting moderate to high risk for future violence. He has many concerning risk factors - early onset of violence, history of multiple violent incidents, escalating severity, substance abuse, delinquent peers, poor parental supervision, academic failure, and limited prosocial emotions. These are all empirically validated risk factors for continued violence.
+
+Q: So he's at high risk?
+A: That's where the distinction between moderate and high becomes important. Without intervention, I would say his risk is high. However, Marcus also has protective factors that are important. He has average intelligence. He has family members who care about him and remain engaged. He showed in his early diversion case that he can comply with structure when it's provided. He's at a developmental stage where his brain is still developing and he has capacity for change. With intensive, appropriate intervention, I believe his risk can be reduced to a moderate level.
+
+Q: How does the juvenile versus adult system factor into your risk assessment?
+A: This is critical. There's extensive research on this question. Study after study shows that juveniles who are transferred to adult court and incarcerated in adult facilities have higher rates of reoffending compared to similar youth who remain in the juvenile system. There are several reasons for this. Adult facilities are focused on punishment, not rehabilitation. There's minimal access to education, mental health treatment, or evidence-based programming. Juveniles in adult facilities are exposed to adult offenders and often victimized themselves. They don't receive developmentally appropriate services. The experience is criminogenic - it increases rather than decreases their likelihood of future crime.
+
+MS. PARK: Thank you, Dr. Chen. I have no further questions.
+
+CROSS-EXAMINATION BY MR. DAVID MORRISON (Deputy Prosecuting Attorney):
+
+Q: Dr. Chen, you testified that Marcus has Conduct Disorder with limited prosocial emotions. That means he has callous-unemotional traits, correct?
+A: Yes, that's what the specifier indicates.
+
+Q: And these are fairly stable personality characteristics, aren't they?
+A: They can be relatively stable, yes. However, it's important to note that we're talking about an adolescent whose brain is still developing. The adolescent brain, particularly the prefrontal cortex which is responsible for impulse control and moral reasoning, continues developing into the mid-twenties. So while these traits show some stability, they're not fixed in the way they would be in an adult.
+
+Q: But you're not saying these traits are going to resolve on their own, are you?
+A: No, certainly not. They require intervention.
+
+Q: You mentioned that Marcus has had multiple prior interventions that have failed. Doesn't that suggest he's not amenable to treatment?
+A: I understand why it might look that way, but I would disagree with that characterization. Marcus's prior interventions have been insufficient in intensity and duration. Brief outpatient therapy once a month is not an appropriate level of treatment for severe Conduct Disorder. It's like treating advanced cancer with aspirin and then saying the patient isn't responding to treatment. We haven't actually provided him with the level of intervention that research tells us can be effective.
+
+Q: But he didn't even comply with those lower-level interventions. He missed appointments. He discontinued medication. He violated his probation conditions.
+A: That's true, and that's concerning. It's one of the risk factors I identified. However, I'd point out that he did successfully complete his diversion program at age fourteen. So he has demonstrated capacity to comply when there's sufficient structure and support. The question is whether we provide that level of structure and accountability, or whether we give up on him.
+
+Q: Let's talk about the current offense. Marcus shot two people with a firearm. Those victims could have died.
+A: I understand the seriousness of the offense. The victims were seriously injured, though fortunately both survived. This was a significant escalation from his prior offenses.
+
+Q: Would you characterize this as a heinous crime?
+A: It's a serious violent crime that caused significant harm. I'm not sure I would characterize it as heinous, which to me implies a level of cruelty or depravity. Based on witness statements and Marcus's account, this appears to have been a reactive incident that escalated from a confrontation, not a planned or predatory attack. That distinction matters from a risk assessment perspective.
+
+Q: But Marcus brought a loaded gun to that confrontation, didn't he?
+A: According to reports, yes. That's extremely concerning and reflects very poor judgment and high risk-taking behavior.
+
+Q: You testified that keeping Marcus in the juvenile system would allow him to receive treatment. But he's seventeen years old. The juvenile system only has jurisdiction until age twenty-one. That's less than four years.
+A: That's correct. However, four years is a significant period for adolescent development. If Marcus were eighteen when sentenced in adult court, he'd likely serve several years in an adult facility. Either way, we're talking about a similar time period, but the question is what happens during that time. Does he receive treatment, education, and rehabilitation, or does he sit in an adult prison?
+
+Q: Isn't there a risk that Marcus could be violent while in a juvenile facility and harm other youth?
+A: There's always some level of risk with violent offenders in any setting. However, juvenile facilities are designed to manage high-risk youth with appropriate supervision and structure. In contrast, if Marcus is transferred to adult court and eventually ends up in adult prison, he's more likely to be victimized himself, which could increase his trauma and violence risk long-term.
+
+Q: You mentioned brain development several times. At seventeen, isn't Marcus's brain sufficiently developed that he should be held accountable for his actions?
+A: Accountability and punishment are legal questions, not medical ones. What I can tell you from a psychiatric and neuroscientific perspective is that the adolescent brain, particularly the prefrontal cortex, is not fully mature. Adolescents are more impulsive, more susceptible to peer influence, less able to consider long-term consequences, and more emotionally reactive than adults. This doesn't mean they can't understand right from wrong - Marcus clearly can. But it does mean their capacity for self-regulation and judgment is impaired compared to adults. This is relevant to questions about culpability and rehabilitation potential.
+
+Q: But there are seventeen-year-olds who don't shoot people, correct?
+A: Of course. Most seventeen-year-olds don't engage in serious violence. Marcus has multiple risk factors that distinguish him from typically developing adolescents - his conduct disorder, his trauma history, his substance abuse, his family and neighborhood environment. These factors impaired his development in ways that increased his likelihood of violence.
+
+Q: Are you saying he's not responsible for his actions?
+A: Not at all. I'm not opining on legal responsibility. I'm explaining the developmental and psychiatric context in which his actions occurred. That context is relevant to decisions about appropriate intervention and likely rehabilitation potential.
+
+Q: If Marcus remains in juvenile jurisdiction and is released at age twenty-one, won't he still be dangerous?
+A: That depends entirely on what interventions are provided between now and age twenty-one. If he receives intensive treatment as I've recommended - residential placement, evidence-based programming, substance abuse treatment, family therapy, educational services, and graduated transition with intensive aftercare - I believe his risk can be significantly reduced. If he just sits in detention without treatment, then yes, he'd likely remain high risk. But that's an argument for intensive intervention, not for transfer to adult court where he'd receive even less treatment.
+
+Q: You've never treated Marcus yourself, have you?
+A: No, I was appointed as a forensic evaluator, not as a treating clinician.
+
+Q: So you can't say with certainty that he would respond to treatment?
+A: No evaluator can predict with absolute certainty how any individual will respond to treatment. What I can say is that the research literature shows that adolescents with Conduct Disorder, including those with callous-unemotional traits, can show significant improvement with intensive, evidence-based interventions. Marcus has some protective factors that support rehabilitation potential. Without trying intensive treatment, we simply don't know.
+
+Q: But we do know he's dangerous right now, don't we?
+A: He's engaged in serious violence, yes. That's why he requires secure placement and intensive supervision along with treatment. The juvenile system can provide that through age twenty-one. The question is whether we invest in trying to rehabilitate him during that critical developmental period, or whether we give up and warehouse him in adult prison.
+
+Q: Isn't transfer to adult court sometimes appropriate for the most serious juvenile offenders?
+A: There may be rare cases where transfer is appropriate - perhaps for individuals who are close to the upper age limit and have exhausted all juvenile resources, or in extraordinary circumstances. However, the research is quite clear that as a general policy, transfer to adult court doesn't enhance public safety and typically makes outcomes worse. For Marcus, who has never received intensive intervention and who still has developmental potential, I believe transfer would be counterproductive from both a rehabilitation and a public safety perspective.
+
+MR. MORRISON: No further questions.
+
+REDIRECT EXAMINATION BY MS. PARK:
+
+Q: Dr. Chen, the prosecutor asked you about accountability. Can Marcus be held accountable within the juvenile system?
+A: Absolutely. Accountability and rehabilitation are not mutually exclusive. Marcus can be held in secure detention, can face serious consequences for his actions, and can still receive treatment and education. In fact, effective rehabilitation often requires accountability as one component.
+
+Q: If Marcus remains in juvenile jurisdiction, what would you recommend?
+A: I would recommend immediate placement in a secure residential treatment facility that specializes in treating adolescents with severe conduct problems. He needs intensive evidence-based programming including cognitive-behavioral therapy, anger management, trauma treatment, and substance abuse treatment. He needs family therapy to repair and strengthen those relationships. He needs educational services to address his learning difficulties. And he needs a carefully structured transition plan with intensive aftercare supervision when he eventually returns to the community. This should include GPS monitoring, frequent drug testing, continued treatment, and very close supervision. He would need to be connected with a community mentor and prosocial activities. His peer associations would need to be managed carefully. This level of intervention is possible in the juvenile system but would not be available if he's transferred to adult court.
+
+Q: What would happen if he's transferred to adult court?
+A: If convicted in adult court, he would likely be sentenced to prison. In prison, he'd have minimal access to education, mental health treatment, or rehabilitative programming. He'd be exposed to adult offenders and would likely be victimized himself. When he's eventually released, probably in his early twenties, he would emerge more damaged, more traumatized, more antisocial, and at higher risk for continued violence. The research on this is unambiguous - juvenile transfer increases recidivism risk.
+
+Q: In your expert opinion, should Marcus be transferred to adult court?
+A: No. It's my opinion that Marcus should remain in juvenile jurisdiction where he can receive intensive, evidence-based treatment appropriate to his developmental needs and risk level. While his offense is serious and his risk factors are concerning, he has protective factors and developmental potential that support rehabilitation. Transfer to adult court would eliminate the possibility of rehabilitation and would likely result in worse long-term outcomes for both Marcus and public safety.
+
+MS. PARK: Thank you, Dr. Chen. Nothing further.
+
+THE COURT: Thank you, Dr. Chen. You may step down.
+
+[End of testimony]
+
+---
+
+TRANSCRIPT CERTIFICATION
+
+I hereby certify that the foregoing is a true and accurate transcript of the testimony of Patricia Chen, MD, given in the matter of In Re: Marcus Allen Thompson, Case Number JUV-2024-00847, heard before the Honorable Robert Martinez on September 22, 2024.
+
+Jennifer Kwong
+Official Court Reporter
+King County Superior Court
+
+September 25, 2024

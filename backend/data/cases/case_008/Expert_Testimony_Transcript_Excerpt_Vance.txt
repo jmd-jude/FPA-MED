@@ -1,0 +1,36 @@
+EXCERPT FROM DIRECT EXAMINATION TESTIMONY
+SUPERIOR COURT OF ALTA, COUNTY OF HAVEN
+CASE: State of Jurisprudence v. Elias Vance (fictional), SVP Petition
+DATE: 2025-11-20
+
+---
+
+**PRESIDING JUDGE:** ...Dr. Reed, you may proceed with your testimony.
+
+**MS. CHEN (Prosecutor):** Thank you, Your Honor. Dr. Reed, please state your name and professional background for the record.
+
+**DR. REED (fictional):** My name is Dr. Seraphina Reed. I am a physician licensed in the State of Alta, specializing in Forensic Psychiatry. I am Board Certified by the American Board of Psychiatry and Neurology, and I completed a fellowship in Forensic Psychiatry at the Alta State Medical Center. My practice is primarily dedicated to criminal and civil forensic evaluations, including SVP risk assessments.
+
+**MS. CHEN:** Dr. Reed, did you conduct an evaluation of the Respondent, Mr. Elias Vance, to determine his eligibility for civil commitment as a Sexually Violent Predator?
+
+**DR. REED:** Yes, I did. My evaluation spanned from August through November of 2025, and culminated in the SVP Risk Assessment Report dated November 10th, 2025.
+
+**MS. CHEN:** Please summarize your primary diagnostic findings for the court.
+
+**DR. REED:** Based on my review of the voluminous collateral documents, my clinical interviews, and the psychometric data, I concluded that Mr. Vance suffers from two co-occurring disorders that meet the threshold for 'mental abnormality' as defined by the statute. First, he meets the criteria for **Antisocial Personality Disorder**. More critically, he has a **Paraphilic Disorder, Specifically Sexual Sadism**, which is limited in its diagnostic presentation to acts involving non-consenting adult partners. The pattern of escalating violence and the specific nature of the abuse in the 1997 and 2005 offenses clearly point to the use of psychological and physical dominance, including methods of asphyxia and humiliation, for the primary purpose of sexual gratification. This pattern is pathognomonic for sexual sadism.
+
+**MS. CHEN:** And how did these diagnoses inform your risk assessment for future predatory sexual violence?
+
+**DR. REED:** They are the foundation of the risk. A Paraphilic Disorder, particularly one involving non-consenting victims and characterized by sadism, is a chronic, high-risk factor. We also administered multiple validated actuarial risk tools. The **Static-99R**, which uses historical factors, yielded a score of **8**. This is a highly elevated score, placing him in the highest risk category, indicating an estimated long-term sexual recidivism rate of approximately 74%. His score on the **Psychopathy Checklist-Revised (PCL-R)** was also profoundly high, at **35 out of 40**. Individuals scoring this high are known to be highly resistant to treatment and pose a severe management challenge in both institutional and community settings.
+
+**MS. CHEN:** Did Mr. Vance participate in sexual offender treatment during his 20-year sentence?
+
+**DR. REED:** He was mandated to the 'Pathways to Change' program in 2011, but his participation was, by all accounts, oppositional. He was formally discharged from the program in 2013 due to what the clinical team documented as "active sabotage of group processes" and "persistent denial and minimization." He stated to me directly that he felt the program was "state-sponsored propaganda." His failure to internalize treatment, coupled with his high psychopathy score, significantly elevates his dynamic risk for re-offense upon release.
+
+**MS. CHEN:** And what is your ultimate opinion, to a reasonable degree of medical certainty, regarding the likelihood that Mr. Vance will engage in future predatory acts of sexual violence?
+
+**DR. REED:** Based on the high static risk (Static-99R = 8), the nature and chronicity of his Paraphilic Disorder (Sexual Sadism), his severe psychopathy (PCL-R = 35), and his total lack of therapeutic response or insight, my professional opinion is that it is **highly likely** that Mr. Vance will engage in predatory acts of sexual violence if released into the community. He meets the statutory criteria for commitment as a Sexually Violent Predator.
+
+**MS. CHEN:** Thank you, Dr. Reed. No further questions, Your Honor.
+
+[---Excerpt Ends---]

@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Forensic Psychiatry RAG",
+  title: "FPAMED, LP Case Doc Agent",
   description: "AI-powered document assistant for forensic psychiatry case analysis",
 };
 

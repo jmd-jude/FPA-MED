@@ -68,5 +68,40 @@
     "case_id": "case_007",
     "file_name": "treatment_history_summary.txt",
     "ingested_at": "data/cases/case_007"
+  },
+  "case_008_Correspondence_Defense_Counsel_Vance.txt": {
+    "case_id": "case_008",
+    "file_name": "Correspondence_Defense_Counsel_Vance.txt",
+    "ingested_at": "data/cases/case_008"
+  },
+  "case_008_Expert_Testimony_Transcript_Excerpt_Vance.txt": {
+    "case_id": "case_008",
+    "file_name": "Expert_Testimony_Transcript_Excerpt_Vance.txt",
+    "ingested_at": "data/cases/case_008"
+  },
+  "case_008_SVP_Risk_Assessment_Report_Vance.txt": {
+    "case_id": "case_008",
+    "file_name": "SVP_Risk_Assessment_Report_Vance.txt",
+    "ingested_at": "data/cases/case_008"
+  },
+  "case_009_court_testimony.txt": {
+    "case_id": "case_009",
+    "file_name": "court_testimony.txt",
+    "ingested_at": "data/cases/case_009"
+  },
+  "case_009_forensic_evaluation_report.txt": {
+    "case_id": "case_009",
+    "file_name": "forensic_evaluation_report.txt",
+    "ingested_at": "data/cases/case_009"
+  },
+  "case_009_psychosocial_history.txt": {
+    "case_id": "case_009",
+    "file_name": "psychosocial_history.txt",
+    "ingested_at": "data/cases/case_009"
+  },
+  "case_009_risk_assessment_report.txt": {
+    "case_id": "case_009",
+    "file_name": "risk_assessment_report.txt",
+    "ingested_at": "data/cases/case_009"
   }
 }

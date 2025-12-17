@@ -92,7 +92,7 @@ export default function ChatInterface() {
       <div className="mb-4">
         <div className="flex items-center justify-between mb-2">
           <h1 className="text-3xl font-bold text-gray-900">
-            Forensic Psychiatry Document Assistant
+            Forensic Psychiatric Associates, LP Agent Platform
           </h1>
           <button
             onClick={clearConversation}

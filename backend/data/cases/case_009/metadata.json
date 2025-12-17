@@ -1,0 +1,46 @@
+{
+  "case_id": "case_009",
+  "title": "State v. Marcus Thompson - Juvenile Transfer Evaluation",
+  "defendant": "Marcus Allen Thompson",
+  "date": "2024-08-15",
+  "court": "Juvenile Court, King County Superior Court, Washington",
+  "evaluator": "Dr. Patricia Chen, MD",
+  "question": "Whether defendant should be transferred from juvenile to adult court for prosecution of aggravated assault charges; amenability to rehabilitation within juvenile justice system",
+  "summary": "17-year-old male with conduct disorder and substance use history evaluated for transfer to adult court following aggravated assault. Evaluation examines developmental factors, mental health diagnoses, treatment history, and rehabilitation potential within juvenile versus adult systems.",
+  "documents": [
+    {
+      "filename": "forensic_evaluation_report.txt",
+      "type": "evaluation_report",
+      "date": "2024-08-15",
+      "description": "Comprehensive forensic psychiatric evaluation addressing transfer criteria, including clinical interviews, collateral information review, and amenability assessment"
+    },
+    {
+      "filename": "psychosocial_history.txt",
+      "type": "evaluation_report",
+      "date": "2024-08-10",
+      "description": "Detailed developmental and psychosocial history compiled from interviews with defendant, family members, and review of educational and treatment records"
+    },
+    {
+      "filename": "risk_assessment_report.txt",
+      "type": "risk_assessment",
+      "date": "2024-08-12",
+      "description": "Structured risk assessment using SAVRY (Structured Assessment of Violence Risk in Youth) and analysis of recidivism factors"
+    },
+    {
+      "filename": "court_testimony.txt",
+      "type": "testimony",
+      "date": "2024-09-22",
+      "description": "Direct and cross-examination testimony regarding clinical findings, amenability to treatment, and recommendations on transfer decision"
+    }
+  ],
+  "key_findings": [
+    "Diagnosis of Conduct Disorder, Childhood-Onset Type, Severe with limited prosocial emotions",
+    "History of Cannabis Use Disorder, Moderate, currently in controlled environment",
+    "Significant adverse childhood experiences including exposure to domestic violence and parental substance abuse",
+    "SAVRY risk assessment indicates moderate-high risk with presence of protective factors including intellectual functioning in average range and family support",
+    "Prior juvenile interventions were insufficient intensity; defendant showed partial response to structured residential treatment",
+    "Neuropsychological testing revealed executive functioning deficits consistent with adolescent brain development",
+    "Assessment indicates moderate amenability to rehabilitation with intensive, evidence-based interventions available in juvenile system",
+    "Transfer to adult system would likely eliminate access to developmentally appropriate treatment and education services"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_id": "case_008",
+  "title": "State of Jurisprudence v. Elias Vance (fictional) - Sexually Violent Predator Risk Assessment",
+  "defendant": "Elias Vance",
+  "date": "2025-11-20",
+  "court": "Superior Court of the State of Alta, County of Haven",
+  "evaluator": "Dr. Seraphina Reed, MD",
+  "question": "Does Mr. Vance meet the statutory criteria for commitment as a Sexually Violent Predator (SVP), specifically, is he a person who has been convicted of a sexually violent offense and currently suffers from a mental abnormality or personality disorder that makes him a menace to the health and safety of others because it is likely that he will engage in predatory acts of sexual violence?",
+  "summary": "This is a post-sentence, pre-release risk assessment to determine if Elias Vance meets the criteria for civil commitment as a Sexually Violent Predator (SVP). The evaluation focuses on his Paraphilic Disorder (Sexual Sadism), extensive criminal history, and high static/dynamic risk scores.",
+  "documents": [
+    {
+      "filename": "SVP_Risk_Assessment_Report_Vance.txt",
+      "type": "evaluation_report",
+      "date": "2025-11-10",
+      "description": "Comprehensive psychological and forensic psychiatric report detailing history, testing, diagnosis, and final risk determination."
+    },
+    {
+      "filename": "Expert_Testimony_Transcript_Excerpt_Vance.txt",
+      "type": "testimony",
+      "date": "2025-11-20",
+      "description": "Excerpt of Dr. Reed's direct examination testimony regarding her findings and risk conclusion."
+    },
+    {
+      "filename": "Correspondence_Defense_Counsel_Vance.txt",
+      "type": "correspondence",
+      "date": "2025-10-01",
+      "description": "Initial letter from defense counsel outlining their challenges to the state's petition and requesting clarification on the static risk assessment scoring."
+    }
+  ],
+  "key_findings": [
+    "Diagnosis of Paraphilic Disorder, Other Specified (Sexual Sadism, non-consenting partners only) and Antisocial Personality Disorder.",
+    "Historical risk factors (static) are exceptionally high, with an elevated PCL-R score of 35/40 (Factor 1: 18, Factor 2: 17).",
+    "Statistically significant high risk for sexual recidivism as measured by the Static-99R (Score 8, High Risk) and the VRAG-R (Classification Group 9, 81.3% estimated risk over 10 years).",
+    "Dynamic risk factors remain poorly managed; Mr. Vance has shown minimal engagement and limited insight into the function of his paraphilia or the impact of his criminality during his incarceration.",
+    "The mental abnormality (Paraphilic Disorder) is judged to be volitional and linked to the likelihood of future predatory sexual violence.",
+    "Mr. Vance meets the statutory criteria for commitment as a Sexually Violent Predator."
+  ]
+}

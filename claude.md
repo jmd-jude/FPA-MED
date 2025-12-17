@@ -1,4 +1,4 @@
-# Forensic Psychiatry RAG System - Claude Documentation
+# Forensic Psychiatry RAG System Prototype - Claude Documentation
 
 ## Project Overview
 

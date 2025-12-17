@@ -1,0 +1,38 @@
+LAW OFFICES OF TRUMAN & ASSOCIATES (fictional)
+225 Liberty Lane, Suite 100
+Haven, Alta 12345
+
+October 1, 2025
+
+Seraphina Reed, MD (fictional)
+Forensic Psychiatry Services of Alta
+1900 Court Plaza, Suite 400
+Haven, Alta 12345
+
+**RE: State of Jurisprudence v. Elias Vance (fictional) - Case No. [case_008]**
+**Our File Ref: VANCE-SVP-008**
+
+Dear Dr. Reed,
+
+This firm represents Mr. Elias Vance in the pending matter of the State’s Petition for Civil Commitment as a Sexually Violent Predator (SVP). We acknowledge receipt of your preliminary assessment notice and the request for additional documentation, which we are currently processing.
+
+The purpose of this correspondence is twofold: first, to formally request a Rule 16-A conference upon completion of your final report, and second, to identify and challenge specific methodological aspects that we anticipate will be central to your final risk formulation, particularly those concerning the static risk assessment.
+
+As you are aware, the use of actuarial tools, while generally accepted, is often challenged in terms of applicability to specific individuals and the potential for over-classification. Our independent review of Mr. Vance’s history indicates a potential over-scoring on the **Static-99R** concerning two specific items:
+
+1.  **Item 1 (Non-Sexual Violent Offense):** The 1991 'Assault and Battery' was later reduced from 'Attempted Rape.' The conviction was for a simple battery that, while violent, did not involve significant injury and occurred under circumstances that may be distinguishable from a pattern of high-severity non-sexual violence. We request you provide clear documentation on why this event was scored as positive, potentially inflating the total score.
+2.  **Item 3 (Unrelated Victims):** We believe Mr. Vance’s sexual offenses involved two distinct victims. However, the use of three separate convictions to satisfy this criterion may be a misapplication, depending on the temporal separation and the criteria used to define 'unrelated.' We anticipate arguing that the 1997 victim and the 2005 victim should be considered the operative subjects, not the initial 1991 incident.
+
+A single point difference on the Static-99R (i.e., reducing the score from 8 to 7) shifts the risk category from ‘High’ to ‘Above Average-High,’ which can significantly impact the jury’s interpretation of 'likelihood' of re-offense. We urge you to consider the mitigating circumstances of the early offense when finalizing your scoring.
+
+Furthermore, Mr. Vance wishes to emphasize that his lack of participation in the 'Pathways to Change' program was primarily due to a perceived lack of cultural sensitivity and his documented concerns regarding the program’s reliance on group therapy modalities, which he found personally stressful, not an explicit rejection of therapeutic goals. We understand you will review the program discharge notes, and we ask that you consider this alternative explanation for his non-completion.
+
+Please confirm receipt of this letter. We look forward to receiving your final report and scheduling a deposition shortly thereafter.
+
+Sincerely,
+
+/s/ Marcus Truman
+Marcus Truman (fictional), J.D.
+Lead Counsel for Elias Vance
+mtruman@trumanlaw-alta.com
+(555) 123-9876
